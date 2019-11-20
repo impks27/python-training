@@ -1,0 +1,5 @@
+thisis first
+file creation
+program in
+python using
+file objects
